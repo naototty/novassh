@@ -12,7 +12,7 @@ import (
 const (
 	DEFAULT_SSH_COMMAND = "ssh"
 	APPNAME             = "novassh"
-	VERSION             = "0.2.6"
+	VERSION             = "0.2.6.r20190115"
 )
 
 // Commands
