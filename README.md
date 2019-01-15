@@ -17,19 +17,39 @@ Download an executable binary from GitHub release.
 
 **Mac OSX**
 
+ORIGINAL(hironobu-s)
 ```shell
 curl -sL https://github.com/hironobu-s/novassh/releases/download/current/novassh-osx.amd64.gz | zcat > novassh && chmod +x ./novassh
 ```
 
+naototty current build
+```shell
+curl -sL https://github.com/naototty/novassh/releases/download/current/novassh-osx.amd64.gz | zcat > novassh && chmod +x ./novassh
+```
+
+
+
 **Linux(amd64)**
 
+ORIGINAL(hironobu-s)
 ```shell
 curl -sL https://github.com/hironobu-s/novassh/releases/download/current/novassh-linux.amd64.gz | zcat > novassh && chmod +x ./novassh
 ```
 
+naototty current build
+```shell
+curl -sL https://github.com/naototty/novassh/releases/download/current/novassh-linux.amd64.gz | zcat > novassh && chmod +x ./novassh
+```
+
+
 **Windows(amd64)**
 
+ORIGINAL(hironobu-s)
 [ZIP file](https://github.com/hironobu-s/novassh/releases/download/current/novassh.amd64.zip)
+
+naototty current build
+[ZIP file](https://github.com/naototty/novassh/releases/download/current/novassh.amd64.zip)
+
 
 # Run in docker
 
